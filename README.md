@@ -4,7 +4,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone https://github.com/AbdallahAhmed2000/Pharmacy-Management-System.git
+git clone https://github.com/AbdallahAhmed0/Egyption-Govornate-Instant.git
 ```
 2. Install packages with composer
 
